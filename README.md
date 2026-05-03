@@ -12,6 +12,16 @@ Bonjours tout le monde, ici se retrouve le travail que je réalise sur le quanti
 
 ---
 
+# Explications Quantique
+
+- **UNE INTRICATION**, c'est quoi ?
+
+  Une **intrication** est un phénomène où deux particules (ou qubits ici) sont liées de telle manière que l'état de l'une dépend **forcément et instantanément** de l'état de l'autre, quelle que soit la distance qui les sépare.
+
+- **UNE SUPERPOSITION**, c'est quoi ?
+
+    La **superposition** permet à une particule (ou un qubit ici) d'exister simultanément dans plusieurs état possibles jusqu'à ce qu'une mesure soit effectuée.
+
 # Portes et opérations circuit
 
 **|H|** -> La porte Hadamard
