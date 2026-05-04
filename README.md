@@ -36,6 +36,8 @@ Bonjours tout le monde, ici se retrouve le travail que je réalise sur le quanti
 
 $$|0\rangle \xrightarrow{H} \frac{|0\rangle + |1\rangle}{\sqrt{2}}$$
 
+$$|1\rangle \xrightarrox{H} \frac{|0\rangle - |1\rangle}{\sqrt{2}}$$
+
 **La matrice**
 
 $$H = \frac{1}{\sqrt{2}} \begin{pmatrix} 1 & 1 \\\ 1 & -1 \end{pmatrix}$$ 
